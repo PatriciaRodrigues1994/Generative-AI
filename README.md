@@ -46,3 +46,8 @@ A graduate of this program will be able to:
 ## Credits
 - [udacity.com](udacity.com)
 - [CODEOWNERS](CODEOWNERS)
+
+
+Additional repos:
+https://github.com/udacity/Computer-Vision-and-Generative-AI
+https://github.com/PraveenKumar-Rajendran/Udacity-Generative-AI-Engineer-Nanodegree
